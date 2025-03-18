@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>Welcome to Our Website!!</h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
@@ -25,7 +25,7 @@
 
     <section id="about">
         <h2>About Section</h2>
-        <p>This is the about section where you tell people about your website.</p>
+        <p>This is a website dedicated to serving underpriveleged communities in an eco-friendly manner. This website is an extension of our product to help educate all on how to clean water in a sustainable manner.</p>
     </section>
 
     <section id="contact">
@@ -40,64 +40,5 @@
     <script src="scripts.js"></script>
 </body>
 
-/* Reset some default styling */
-body, h1, h2, p, ul, li {
-    margin: 0;
-    padding: 0;
-}
 
-/* Basic page styling */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
-}
-
-header {
-    background-color: #333;
-    color: white;
-    padding: 20px;
-    text-align: center;
-}
-
-header nav ul {
-    list-style-type: none;
-}
-
-header nav ul li {
-    display: inline;
-    margin: 0 10px;
-}
-
-header nav ul li a {
-    color: white;
-    text-decoration: none;
-    font-size: 18px;
-}
-
-section {
-    padding: 20px;
-    margin: 10px 0;
-}
-
-section#home {
-    background-color: #fff;
-}
-
-section#about {
-    background-color: #f8f8f8;
-}
-
-section#contact {
-    background-color: #fff;
-}
-
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px;
-}
-
-</html>
 
