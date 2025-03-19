@@ -67,13 +67,14 @@ padding:.5em;
 body{text-align:center;}
 #img{max-width:320px;}
 
-body{text-align:center;}
+body{text-align:left;}
 #Map{
   max-width:350px;
   max-height:350px;
   text-align:left;
   border:1px solid white;
-  margin-bottom:2em;
+  margin-top:15em;
+  margin-bottom:10em;
   
 }
 #firstpiece{
