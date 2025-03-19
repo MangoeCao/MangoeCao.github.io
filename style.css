@@ -69,10 +69,10 @@ body{text-align:center;}
 
 body{text-align:center;}
 #Map{
-  max-width:250px;
-  max-height:250px;
-  text-align:center;
-  border:9px solid white;
+  max-width:350px;
+  max-height:350px;
+  text-align:left;
+  border:1px solid white;
   margin-bottom:2em;
   
 }
