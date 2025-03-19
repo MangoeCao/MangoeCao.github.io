@@ -67,10 +67,10 @@ padding:.5em;
 body{text-align:center;}
 #img{max-width:320px;}
 
-header{text-align:center;}
+body{text-align:center;}
 #Map{
-  max-width:450px;
-  max-height:450px;
+  max-width:250px;
+  max-height:250px;
   text-align:center;
   border:9px solid white;
   margin-bottom:2em;
