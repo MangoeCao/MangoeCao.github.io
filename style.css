@@ -68,7 +68,8 @@ padding:1em;
   color:#57653E;
   background-color:#E3E8D9;
   padding:0.1em;
-  margin-right:47.5em;
+  margin-right:54em;
+  margin-left:4em;
   margin-top:3em;
   text-align: center
   
@@ -77,26 +78,31 @@ padding:1em;
   color:#57653E;
   background-color:#E3E8D9;
   padding:0.1em;
-  margin-left:58em;
- 
-  margin-top:3em;
-  text-align:right;
+  margin-left:20em;
+  margin-right:38.65em;
+  margin-top:-10em;
+  margin-bottom:0.3em;
+  text-align:left;
   
 }
 #button2{
   color:#57653E;
   background-color:#E3E8D9;
   padding:0.1em;
-  margin-left:58.5em;
-  text-align:center;
+  margin-left:20em;
+  margin-right:38.65em;
+  margin-bottom:0.3em;
+  text-align:left;
   
 }
 #button3{
   color:#57653E;
   background-color:#E3E8D9;
   padding:0.1em;
-  margin-left:58.5em;
-  text-align:center;
+  margin-left:20em;
+  margin-right:38.65em;
+ 
+  text-align:left;
 }
 
 /* STYLE IMAGES */
@@ -175,5 +181,3 @@ li a:hover {
   background-color:#88A27C;
 
 }
- 
-
