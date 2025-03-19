@@ -2,7 +2,7 @@
 *{
   margin: 0px;
   padding: 0px;
-  
+
 }
 
 body {
@@ -25,13 +25,13 @@ h1 {
 main{
   text-align:center;
   margin-top: 0;
-  margin-bottom:0;
-  margin-right:20%;
-  margin-left:20%;
-  
+  margin-bottom:10%;
+  margin-right:5%;
+  margin-left:5%;
+
 }
 
-  
+
 }
 
 h4 {
@@ -40,52 +40,106 @@ h4 {
   font-size: 20px;
   text-decoration-line: underline;
   text-decoration-thickness:1px;
-  
+
 }
 
 p {
   color:#404833;
   text-align:center;
   font-size:21px;
+  
 }
 
 #AboutUs{
 color:#57653E;
 background-color:#E3E8D9;
-padding:.75em;
+padding:1em;
+
 
 }
 
 .works{
   font-size:24px;
   color:#353C2A
- 
+
 }
 
+#mapInfo{
+  color:#57653E;
+  background-color:#E3E8D9;
+  padding:0.1em;
+  margin-right:47.5em;
+  margin-top:3em;
+  text-align: center
+  
+}
+#button1{
+  color:#57653E;
+  background-color:#E3E8D9;
+  padding:0.1em;
+  margin-left:58em;
+ 
+  margin-top:3em;
+  text-align:right;
+  
+}
+#button2{
+  color:#57653E;
+  background-color:#E3E8D9;
+  padding:0.1em;
+  margin-left:58.5em;
+  text-align:center;
+  
+}
+#button3{
+  color:#57653E;
+  background-color:#E3E8D9;
+  padding:0.1em;
+  margin-left:58.5em;
+  text-align:center;
+}
 
 /* STYLE IMAGES */
 
 body{text-align:center;}
-#img{max-width:320px;}
+#img{max-width:100px;}
 
 p{text-align:left;}
 #Map{
-  max-width:350px;
+  max-width:450px;
   max-height:350px;
   text-align:center;
-  border:9px solid white;
-  margin-top:15em;
-  margin-bottom:10em;
-  margin-right:0;
-  margin-left:0;
+  border:0px solid white;
+  margin-top:0.5em;
+  margin-bottom:0em;
+  margin-right:90em;
+  margin-left:0em
+}
+
+#Video1{
+  margin-top:3em;
+  max-width:250px;
+  max-height:250px;
+  margin-right:0em;
+  margin-left:0em
+  
+
+}
+#Video2{
+  margin-top:3em;
+  max-width:250px;
+  max-height:250px;
+  margin-right:0em;
+  margin-left:0em
   
 }
+
 #firstpiece{
 max-height:400px;
 max-width:400px;
 border:4px solid ;
 margin-bottom:2em;
-  
+
 }
 
 #secondpiece{
@@ -94,7 +148,7 @@ max-width:600px;
 border:4px solid ;
 margin-top:3em;
 margin-bottom:2em;
-  
+
 }
 
 /* STYLE NAV BAR */
@@ -119,5 +173,7 @@ li a{
 
 li a:hover {
   background-color:#88A27C;
-  
+
 }
+ 
+
